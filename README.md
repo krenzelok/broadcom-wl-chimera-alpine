@@ -3,7 +3,7 @@
 ### To run it just
 Clone the repo
 ```bash
-git clone something
+git clone https://github.com/krenzelok/broadcom-wl-chimera-alpine.git
 ```
 Change directory
 ```bash
