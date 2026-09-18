@@ -1,4 +1,3 @@
-# broadcom-wl-chimera-alpine
 ## Automated build and patch script for the Broadcom STA (wl) Wi-Fi driver on Alpine and Chimera Linux
 ### To run it just
 Clone the repo
@@ -67,5 +66,12 @@ doas depmod -a
 ```bash
 modinfo wl
 ```
+### Note
+If you rerun the script make sure to delete
+```bash
+broadcom-wl-linux-mainline
+```
+Because it git cannot fetch the repo when you have the folder
+Also this is in testing so make sure to make an issue
 
 
