@@ -72,6 +72,7 @@ If you rerun the script make sure to delete
 broadcom-wl-linux-mainline
 ```
 Because it git cannot fetch the repo when you have the folder
+
 Also this is in testing so make sure to make an issue
 
 
