@@ -11,7 +11,7 @@ cd broadcom-wl-chimera-alpine
 ```
 Run it
 ```bash
-./patchwl
+./patchwl.sh
 ```
 
 ### Manual installation
