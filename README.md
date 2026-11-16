@@ -1,6 +1,8 @@
 ## Automated build and patch script for the Broadcom STA (wl) Wi-Fi driver on Alpine and Chimera Linux
 ### To run it just
-** We are under migration to codeberg https://codeberg.org/krenzelok/ **
+
+## We are under migration to codeberg
+https://codeberg.org/krenzelok/
 
 Clone the repo
 ```bash
