@@ -2,6 +2,7 @@
 
 ## We are under migration to codeberg
 https://codeberg.org/krenzelok/
+#### May or not be updated on github
 
 ### To run it just
 
